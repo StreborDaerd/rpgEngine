@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<armor>
+		<name>Padded</name><cost>5</cost><weight>10</weight>
+		<bonus>1</bonus><maxDex>8</maxDex><checkPen>0</checkPen><spellFail>5</spellFail>
+		<speed30>30</speed30><speed20>20</speed20><profType>3</profType>
+	</armor>
+	<armor>
+		<name>Leather</name><cost>10</cost><weight>15</weight>
+		<bonus>2</bonus><maxDex>6</maxDex><checkPen>0</checkPen><spellFail>10</spellFail>
+		<speed30>30</speed30><speed20>20</speed20><profType>3</profType>
+	</armor>
+	<armor>
+		<name>Studded leather</name><cost>25</cost><weight>20</weight>
+		<bonus>3</bonus><maxDex>5</maxDex><checkPen>-1</checkPen><spellFail>15</spellFail>
+		<speed30>30</speed30><speed20>20</speed20><profType>3</profType>
+	</armor>
+	<armor>
+		<name>Chain shirt</name><cost>100</cost><weight>25</weight>
+		<bonus>4</bonus><maxDex>4</maxDex><checkPen>-2</checkPen><spellFail>20</spellFail>
+		<speed30>30</speed30><speed20>20</speed20><profType>3</profType>
+	</armor>
+	<armor>
+		<name>Hide</name><cost>15</cost><weight>25</weight>
+		<bonus>3</bonus><maxDex>4</maxDex><checkPen>-3</checkPen><spellFail>20</spellFail>
+		<speed30>20</speed30><speed20>15</speed20><profType>4</profType>
+	</armor>
+	<armor>
+		<name>Scale mail</name><cost>50</cost><weight>30</weight>
+		<bonus>4</bonus><maxDex>3</maxDex><checkPen>-4</checkPen><spellFail>25</spellFail>
+		<speed30>20</speed30><speed20>15</speed20><profType>4</profType>
+	</armor>
+	<armor>
+		<name>Chainmail</name><cost>150</cost><weight>40</weight>
+		<bonus>5</bonus><maxDex>2</maxDex><checkPen>-5</checkPen><spellFail>30</spellFail>
+		<speed30>20</speed30><speed20>15</speed20><profType>4</profType>
+	</armor>
+	<armor>
+		<name>Breastplate</name><cost>200</cost><weight>30</weight>
+		<bonus>5</bonus><maxDex>3</maxDex><checkPen>-4</checkPen><spellFail>25</spellFail>
+		<speed30>20</speed30><speed20>15</speed20><profType>4</profType>
+	</armor>
+	<armor>
+		<name>Splint mail</name><cost>200</cost><weight>45</weight>
+		<bonus>6</bonus><maxDex>0</maxDex><checkPen>-7</checkPen>
+		<speed30>20</speed30><speed20>15</speed20><profType>2</profType><spellFail>40</spellFail>
+	</armor>
+	<armor>
+		<name>Banded mail</name><cost>250</cost><weight>35</weight>
+		<bonus>6</bonus><maxDex>1</maxDex><checkPen>-6</checkPen><spellFail>35</spellFail>
+		<speed30>20</speed30><speed20>15</speed20><profType>2</profType>
+	</armor>
+	<armor>
+		<name>Half-plate</name><cost>600</cost><weight>50</weight>
+		<bonus>7</bonus><maxDex>0</maxDex><checkPen>-7</checkPen><spellFail>40</spellFail>
+		<speed30>20</speed30><speed20>15</speed20><profType>2</profType>
+	</armor>
+	<armor>
+		<name>Fullplate</name><cost>1500</cost><weight>50</weight>
+		<bonus>8</bonus><maxDex>1</maxDex><checkPen>-6</checkPen><spellFail>35</spellFail>
+		<speed30>20</speed30><speed20>15</speed20><profType>2</profType>
+	</armor>
+</data>

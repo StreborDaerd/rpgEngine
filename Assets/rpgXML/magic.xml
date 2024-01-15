@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<schools>
+		<school>
+			<name>Abjuration</name>
+		</school>
+		<school>
+			<name>Conjuration</name>
+			<subschool>
+				<name>Creation</name>
+				<name>Healing</name>
+				<name>Summoning</name>
+			</subschool>
+		</school>
+			<school>
+				<name>Divination</name>
+		</school>
+	</schools>
+</data>

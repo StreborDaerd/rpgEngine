@@ -1,0 +1,135 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<characterClass>
+		<name>Barbarian</name>
+		<alignments>0,1,1,0,1,1,0,1,1</alignments>
+		<hitDie>12</hitDie>
+		<spellCasting>0</spellCasting>
+		<skills>3,5,13,16,17,19,24,31,32</skills>
+		<skillPoints>4</skillPoints>
+		<feats>3,4,40,57,60</feats>
+		<baseAttack>0</baseAttack>
+		<saves>1,0,0</saves>
+		<classType>0</classType>
+	</characterClass>
+	<characterClass>
+		<name>Bard</name>
+		<alignments>0,1,1,0,1,1,0,1,1</alignments>
+		<hitDie>6</hitDie>
+		<spellCasting>2</spellCasting>
+		<skills>0, 1, 2, 3, 4, 5, 6, 7, 9, 10, 12, 15, 17, 18, 19, 20, 22, 23, 26, 27, 28, 29, 32, 33, 34</skills>
+		<skillPoints>4</skillPoints>
+		<feats>3, 4, 57, 60, 82</feats>
+		<baseAttack>0</baseAttack>
+		<saves>0,1,1</saves>
+		<classType>0</classType>
+	</characterClass>
+	<characterClass>
+		<name>Cleric</name>
+		<alignments>1,1,1,1,1,1,1,1,1</alignments>
+		<hitDie>8</hitDie>
+		<spellCasting>1</spellCasting>
+		<skills>4, 5, 7, 14, 18, 23, 29</skills>
+		<skillPoints>2</skillPoints>
+		<feats>2, 3, 4, 57, 60</feats>
+		<baseAttack>1</baseAttack>
+		<saves>1,0,1</saves>
+		<classType>0</classType>
+	</characterClass>
+	<characterClass>
+		<name>Druid</name>
+		<alignments>0,1,0,1,1,1,0,1,0</alignments>
+		<hitDie>8</hitDie>
+		<spellCasting>1</spellCasting>
+		<skills>4, 5, 7, 13, 14, 18, 19, 23, 24, 29, 30, 31, 32</skills>
+		<skillPoints>4</skillPoints>
+		<feats>3, 4, 57, 78</feats>
+		<baseAttack>1</baseAttack>
+		<saves>1,0,1</saves>
+		<classType>0</classType>
+	</characterClass>
+	<characterClass>
+		<name>Fighter</name>
+		<alignments>1,1,1,1,1,1,1,1,1</alignments>
+		<hitDie>10</hitDie>
+		<spellCasting>0</spellCasting>
+		<skills>4, 5, 13, 16, 17, 24, 32</skills>
+		<skillPoints>2</skillPoints>
+		<feats>2, 3, 4, 40, 57, 60</feats>
+		<baseAttack>0</baseAttack>
+		<saves>1,0,0</saves>
+		<classType>0</classType>
+	</characterClass>
+	<characterClass>
+		<name>Monk</name>
+		<alignments>1,0,0,1,0,0,1,0,0</alignments>
+		<hitDie>8</hitDie>
+		<spellCasting>0</spellCasting>
+		<skills>1, 3, 4, 5, 7, 10, 15, 17, 18, 19, 20, 22, 23, 26, 30, 32, 33</skills>
+		<skillPoints>4</skillPoints>
+		<feats>36, 79</feats>
+		<baseAttack>1</baseAttack>
+		<saves>1,1,1</saves>
+		<classType>0</classType>
+	</characterClass>
+	<characterClass>
+		<name>Paladin</name>
+		<alignments>1,0,0,0,0,0,0,0,0</alignments>
+		<hitDie>10</hitDie>
+		<spellCasting>1</spellCasting>
+		<skills>4, 5, 7, 13, 14, 18, 23, 24, 26</skills>
+		<skillPoints>2</skillPoints>
+		<feats>2, 3, 4, 40, 57, 60</feats>
+		<baseAttack>0</baseAttack>
+		<saves>1,0,0</saves>
+		<classType>0</classType>
+	</characterClass>
+	<characterClass>
+		<name>Ranger</name>
+		<alignments>1,1,1,1,1,1,1,1,1</alignments>
+		<hitDie>10</hitDie>
+		<spellCasting>1</spellCasting>
+		<skills>3, 4, 5, 13, 14, 15, 17, 18, 19, 20, 23, 24, 25, 30, 31, 32, 35</skills>
+		<skillPoints>4</skillPoints>
+		<feats>3, 4, 40, 57, 60, 71</feats>
+		<baseAttack>0</baseAttack>
+		<saves>1,0,0</saves>
+		<classType>0</classType>
+	</characterClass>
+	<characterClass>
+		<name>Rogue</name>
+		<alignments>1,1,1,1,1,1,1,1,1</alignments>
+		<hitDie>6</hitDie>
+		<spellCasting>0</spellCasting>
+		<skills>0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 15, 16, 17, 18, 19, 20, 21, 23, 25, 26, 27, 30, 32, 33, 34, 35</skills>
+		<skillPoints>8</skillPoints>
+		<feats>3,80</feats>
+		<baseAttack>1</baseAttack>
+		<saves>0,1,0</saves>
+		<classType>0</classType>
+	</characterClass>
+	<characterClass>
+		<name>Sorcerer</name>
+		<alignments>1,1,1,1,1,1,1,1,1</alignments>
+		<hitDie>4</hitDie>
+		<spellCasting>2</spellCasting>
+		<skills>2, 4, 5, 18, 23, 29</skills>
+		<skillPoints>2</skillPoints>
+		<feats>60</feats>
+		<baseAttack>2</baseAttack>
+		<saves>0,0,1</saves>
+		<classType>0</classType>
+	</characterClass>
+	<characterClass>
+		<name>Wizard</name>
+		<alignments>1,1,1,1,1,1,1,1,1</alignments>
+		<hitDie>4</hitDie>
+		<spellCasting>2</spellCasting>
+		<skills>4, 5, 6, 18, 23, 29, 30</skills>
+		<skillPoints>4</skillPoints>
+		<feats>56, 81</feats>
+		<baseAttack>2</baseAttack>
+		<saves>0,0,1</saves>
+		<classType>0</classType>
+	</characterClass>
+</data>

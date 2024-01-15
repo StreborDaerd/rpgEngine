@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<data>
+	<shield>
+		<name>Buckler</name><cost>15</cost><weight>5</weight>
+		<bonus>1</bonus><maxDex>999</maxDex><checkPen>-1</checkPen><spellFail>5</spellFail>
+		<profType>57</profType>
+	</shield>
+	<shield>
+		<name>Shield, small, wooden</name><cost>3</cost><weight>5</weight>
+		<bonus>1</bonus><maxDex>999</maxDex><checkPen>-1</checkPen><spellFail>5</spellFail>
+		<profType>57</profType>
+	</shield>
+	<shield>
+		<name>Shield, small, steel</name><cost>9</cost><weight>6</weight>
+		<bonus>1</bonus><maxDex>999</maxDex><checkPen>-1</checkPen><spellFail>5</spellFail>
+		<profType>57</profType>
+	</shield>
+	<shield>
+		<name>Shield, large, wooden</name><cost>7</cost><weight>10</weight>
+		<bonus>2</bonus><maxDex>999</maxDex><checkPen>-2</checkPen><spellFail>15</spellFail>
+		<profType>57</profType>
+	</shield>
+	<shield>
+		<name>Shield, large, steel</name><cost>20</cost><weight>15</weight>
+		<bonus>2</bonus><maxDex>999</maxDex><checkPen>-2</checkPen><spellFail>15</spellFail>
+		<profType>57</profType>
+	</shield>
+	<shield>
+		<name>Shield, tower</name><cost>30</cost><weight>45</weight>
+		<bonus>4</bonus><maxDex>2</maxDex><checkPen>-10</checkPen><spellFail>50</spellFail>
+		<profType>57</profType>
+	</shield>
+</data>
